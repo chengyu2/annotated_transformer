@@ -1,0 +1,5 @@
+jupyter
+tensorflow
+tensorflow_datasets
+numpy
+matplotlib
